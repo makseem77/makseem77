@@ -1,6 +1,6 @@
 # ![header](https://capsule-render.vercel.app/api?type=venom&color=2D3748&height=300&section=header&text=makseem&fontSize=70&fontColor=00BFFF)
 
-**42** Student • Creating solutions, consuming knowledge.
+**42** Student • Creating solutions, mastering the crafts.
 
 ## my stack
 
